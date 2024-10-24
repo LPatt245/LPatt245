@@ -2,7 +2,8 @@
 - I am a Senior Business Systems Analyst
 - 👀 I’m interested in machine learning, data engineering, & Information Systems...
 - I have a Bachelors in Applied Economics & Masters in Information Systems with a concentration in software engineering management
-- 🌱 SKILLS: 
+- 
+- 🌱<b> SKILLS: </b>
  
 Data Analysis Tools: SQL Server, PostgreSQL, Oracle Hyperion, Essbase, SmartView 
 
