@@ -10,7 +10,7 @@ Programming & Scripting: Python, HTML5, CSS, SQL, VBA
 
 Data Management: ETL Processes, Data Integrity, System Design, Data Flow Mapping 
 
-Project Management: Agile Methodologies, SDLC 
+Project Management: Agile Methodologies,Requirements Gathering, SDLC 
 
 Software & Tools: Microsoft Office Suite, Microsoft Project, SharePoint, JIRA, Azure DevOps, ServiceNow, Wireshark, PuTTY 
 
